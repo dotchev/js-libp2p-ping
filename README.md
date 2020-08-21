@@ -20,3 +20,5 @@ In a separate console
 node main.js <address>
 ```
 The second node will ping the first one and print the latency.
+
+**Hint:** you can run it also against [go-libp2p-ping](https://github.com/dotchev/go-libp2p-ping)
